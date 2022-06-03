@@ -1,1 +1,1 @@
-# razzakov09
+![Metrics](https://metrics.lecoq.io/razzakov09?template=classic&stargazers=1&projects=1&base.indepth=false&base.hireable=false&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FBishkek)
